@@ -27,3 +27,7 @@ _This is what italic looks like_ *with asterisk works too*
 
 * Cook and eat 🥘
 * Go to the gym 🏋🏼
+
+## Just to have an idea
+--- 
+
