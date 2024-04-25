@@ -23,7 +23,7 @@ _This is what italic looks like_ *with asterisk works too*
 ## In my free time I:
 
 * Play videogames 🎮
-* Watch Animes ![PokemonPikachuGIF](https://github.com/ndrbn0/ndrbn0/assets/168083201/b8feb383-d56f-4770-8ace-3b6ee2f531b4)
+* Watch Animes 👾
 
 * Cook and eat 🥘
 * Go to the gym 🏋🏼
