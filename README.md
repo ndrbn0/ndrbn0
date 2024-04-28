@@ -20,13 +20,11 @@ I'm using GitHub for the first time 🤩
  * CSS
  * 🤏🏻 Js
 
-## In my free time I:
+## Hobbies:
 
-* Play videogames 🎮
-* Watch Animes 👾
+| Play videogames 🎮 | Watch Animes 👾 | Cook and eat 🥘    | Go to the gym 🏋🏼| Play guitar 🎸 |
+|--------------------|------------------|--------------------|------------------|-----------------|
 
-* Cook and eat 🥘
-* Go to the gym 🏋🏼
 
 
 
