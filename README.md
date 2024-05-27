@@ -25,6 +25,5 @@ I'm using GitHub for the first time 🤩
 | Play videogames 🎮 | Watch Animes 👾 | Cook and eat 🥘    | Go to the gym 🏋🏼| Play guitar 🎸 |
 |--------------------|------------------|--------------------|------------------|-----------------|
 
-
-
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
 
