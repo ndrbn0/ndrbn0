@@ -18,7 +18,7 @@ I'm using GitHub for the first time 🤩
  * Microsoft Office
  * HTML
  * CSS
- * 🤏🏻 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+ * 🤏🏻 Js
 
 ## Hobbies:
 
