@@ -18,7 +18,9 @@ I'm using GitHub for the first time 🤩
  * Microsoft Office
  * HTML
  * CSS
- * 🤏🏻 Js
+ * Js
+ * Ai
+ * React
 
 ## Hobbies:
 
