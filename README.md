@@ -1,8 +1,8 @@
 
 ## Andrea Bruni
 
-Hi, I’m Andrea, I'm from Italy but currently living in Hamburg.
-I'm working on creating my own stability and independence by starting to work as a web developer.
+Hi, I’m Andrea, from Italy but currently living in Hamburg.
+
 <br>
 I'm using GitHub for the first time 🤩
 
